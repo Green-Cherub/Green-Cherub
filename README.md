@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Green-Cherub
 - 👀 I’m interested in techy stuff
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning techy stuff
+- 💞️ I’m looking to collaborate on techy stuff
+- 📫 How to reach me, invent techy stuff
 
 <!---
 Green-Cherub/Green-Cherub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
